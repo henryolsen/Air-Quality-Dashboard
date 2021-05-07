@@ -1,0 +1,7 @@
+category_number	category	min	max	color
+1	good	0	50	#00e400
+2	moderate	51	100	#ffff00
+3	unhealthy for sensitive groups	101	150	#ff7e00
+4	unhealthy	151	200	#ff0000
+5	very unhealthy	201	300	#99004c
+6	hazardous	301	500	#7e0023
